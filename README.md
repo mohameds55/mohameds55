@@ -12,7 +12,6 @@ I'm a passionate Front-End Developer from Egypt with 2+ years of experience buil
 
 - Improving my frontend skills and learning advanced Angular patterns
 - Exploring **full-stack development**
-- Preparing to relocate and work in **Germany**
 
 ## 📂 Featured Projects
 
